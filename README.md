@@ -19,7 +19,7 @@
 #include <locale.h>	
 int main() {
     setlocale(LC_ALL, ".UTF8");
-    int a, b, res,h;
+    int a, b;
     printf("Уровень голода Вани ");
     scanf("%d", &a);
     printf("Уровень голода Пети ");
