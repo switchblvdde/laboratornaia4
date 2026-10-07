@@ -17,7 +17,7 @@
 #define _CRT_SECURE_NO_DEPRECATE	
 #include <stdio.h>
 #include <locale.h>	
-int main(void) {
+int main() {
     //setlocale(LC_ALL, "Russian");
     int a, b, res,h;
     printf("Уровень голода Вани ");
