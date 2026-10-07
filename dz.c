@@ -1,6 +1,6 @@
-#define _CRT_SECURE_NO_DEPRECATE	
-#include<stdio.h>
-#include<locale.h>
+﻿#define _CRT_SECURE_NO_DEPRECATE
+#include <stdio.h>
+#include <locale.h>
 int main() {
     setlocale(LC_ALL, ".UTF8");
     int a, b;
