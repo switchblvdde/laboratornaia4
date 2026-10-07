@@ -18,7 +18,7 @@
 #include <stdio.h>
 #include <locale.h>	
 int main() {
-    //setlocale(LC_ALL, "Russian");
+    setlocale(LC_ALL, ".UTF8");
     int a, b, res,h;
     printf("Уровень голода Вани ");
     scanf("%d", &a);
