@@ -1,4 +1,5 @@
 ﻿#define _CRT_SECURE_NO_DEPRECATE
+#include <stdlib.h>
 #include <stdio.h>
 #include <locale.h>
 int main() {
